@@ -4,7 +4,7 @@
 
 ScalaLog: Scalable Log-Based Failure Diagnosis Using LLM
 
-## How to run
+## How to Run
 
 ```shell
 python llm_caller.py
